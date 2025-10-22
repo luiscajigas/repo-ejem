@@ -4,9 +4,9 @@ export default function LanguagesSection({ dict }: any) {
       <li className="text-xl font-bold border-r pr-4">
         {dict.sections.languages}
       </li>
-      <li className="text-4xl">🇨🇴</li>
+      <li className="text-4xl">co</li>
       <li className="text-4xl">🇺🇸</li>
-      <li className="text-4xl">🇨🇳</li>
+      <li className="text-4xl">ARG</li>
     </ul>
   );
 }
